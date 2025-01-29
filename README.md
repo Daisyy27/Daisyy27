@@ -1,7 +1,23 @@
-- 👋 Hi, I’m Daisy Ohajunwa
-- 👀 I’m interested in Computer programming and Data science
-- 🌱 I’m currently learning Program design and data structures
-- 💞️ I’m looking to collaborate on any C++ and Python projects
+# 👋 Hey, I’m Daisy Ohajunwa!  
+
+💡 **Aspiring Data Scientist | Programmer | Problem Solver**  
+📊 I love working with data, building models, and finding insights that drive real-world impact.  
+
+## 🚀 A Bit About Me  
+- 🎓 **Recent Data Science grad from UC Berkeley**  
+- 💻 Experienced in **Python, SQL, and C++** for data analysis and automation  
+- 🔍 Currently exploring **machine learning, big data, and cloud computing**   
+
+## 🛠 Skills & Tools  
+- **Languages**: Python (Pandas, NumPy, Scikit-learn), SQL, C++  
+- **Data Viz**: Tableau, Power BI, Matplotlib, Seaborn  
+- **ML & Analytics**: Regression, Classification, Clustering, NLP  
+- **Databases**: PostgreSQL, MySQL, Google BigQuery  
+- **Other Tools**: Jupyter Notebook, Git, Google Cloud  
+
+## 🤝 Let’s Connect!  
+I’m always looking to collaborate on **cool projects, hackathons, or research!** If you’re working on something interesting, hit me up.   
+
 - 📫 How to reach me: 
      email: daisyohajunwa@gmail.com
      LinkedIn: Daisy Ohajunwa
